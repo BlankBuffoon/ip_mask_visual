@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\MyForm.h(95,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\MyForm.h(146,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ip_mask_visual.vcxproj -> C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\Debug\ip_mask_visual.exe

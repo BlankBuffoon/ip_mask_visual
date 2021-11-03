@@ -1,0 +1,6 @@
+C:\Users\atere\OneDrive\Документы\Колледж\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ip_mask_visual.vcxprojAssemblyReference.cache
+C:\Users\atere\OneDrive\Документы\Колледж\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ipmaskvisual.MyForm.resources
+C:\Users\atere\OneDrive\Документы\Колледж\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ip_mask_visual.vcxproj.GenerateResource.cache
+C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ip_mask_visual.vcxprojAssemblyReference.cache
+C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ipmaskvisual.MyForm.resources
+C:\College\МДК 01.03\ip_mask_all\ip_mask_visual\ip_mask_visual\Debug\ip_mask_visual.vcxproj.GenerateResource.cache
